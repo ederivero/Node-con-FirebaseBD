@@ -1,0 +1,2 @@
+npm install firebase-admin -> instalar para usar firebase
+para generar el archivo json ir a la base de datos en firebase, entrar a 'Configuracion del Proyecto' -> 'Cuentas del Servicio' -> 'Generar nueva clave privada'

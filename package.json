@@ -1,0 +1,22 @@
+{
+  "name": "node-firebase",
+  "version": "1.0.0",
+  "description": "Conexion entre node y una base de datos en firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./dist/index.js"
+  },
+  "author": "Eduardo de Rivero",
+  "license": "MIT",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^4.17.1",
+    "firebase-admin": "^8.5.0",
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.1",
+    "@types/node": "^12.7.4"
+  }
+}
